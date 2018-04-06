@@ -1,0 +1,14 @@
+MAKEFILE
+
+IP: localhost
+
+----- In CMD:
+
+./python server.py
+
+----- In Browser:
+
+IP:8080/test.html
+
+
+ 
